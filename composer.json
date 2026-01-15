@@ -1,0 +1,23 @@
+{
+    "name": "cryodrift/mailserver",
+    "description": "simple pop3 and smtp servers with encryption",
+    "type": "library",
+    "license": "MIT",
+    "version": "0.1.1",
+    "require": {
+        "php": ">=8.4",
+        "cryodrift/fw": "^0.1.1",
+        "cryodrift/user": "^0.1.1",
+        "cryodrift/mailsend": "^0.1.1"
+    },
+    "authors": [
+        {
+            "name": "chrisg"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "cryodrift\\mailserver\\": ""
+        }
+    }
+}
