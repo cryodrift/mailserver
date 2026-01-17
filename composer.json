@@ -3,7 +3,7 @@
     "description": "simple pop3 and smtp servers with encryption",
     "type": "library",
     "license": "MIT",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "require": {
         "php": ">=8.4",
         "cryodrift/fw": "^0.1.1",
